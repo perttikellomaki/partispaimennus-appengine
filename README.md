@@ -1,0 +1,2 @@
+# partispaimennus-appengine
+Partispaimennuksen koeilmoittautuminen
